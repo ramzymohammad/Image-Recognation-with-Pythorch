@@ -25,7 +25,7 @@ These are the evaluation for 2 models:
 ___________
 
 Based on the table above it, it can be seen that the Convolution Neural Network has highest Test_score.
-for the details you can see <a"href="https://github.com/ramzymohammad/Image-Recognation-with-Pythorch/blob/main/Image_Recognation%20with%20Neural%20Network.ipynb">'Image recognation with Neural Network'</a>. and <a"https://github.com/ramzymohammad/Image-Recognation-with-Pythorch/blob/main/Image_Recognation%20with%20CNN.ipynb">'Image recognation with CNN'</a>
+for the details you can see <a href="https://github.com/ramzymohammad/Image-Recognation-with-Pythorch/blob/main/Image_Recognation%20with%20Neural%20Network.ipynb">'Image recognation with Neural Network'</a>. and <a href="https://github.com/ramzymohammad/Image-Recognation-with-Pythorch/blob/main/Image_Recognation%20with%20CNN.ipynb">'Image recognation with CNN'</a>
  
 
 ### Thank you 
