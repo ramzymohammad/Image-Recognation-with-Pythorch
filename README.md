@@ -1,4 +1,4 @@
-# Image-Recognation-with-Pythorch
+# Image-Recognation-with-Pytorch
 
 
 About
